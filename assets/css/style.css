@@ -1,0 +1,32 @@
+
+
+.contactlinks {
+    border: 5px solid teal;
+    background-color: lightgray;
+    float: right;
+    
+}
+
+.form-area
+{
+    background-color: lightgrey;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+	border: 5px solid teal;
+    }
+
+.footer {
+    background-color: lightgrey;
+    padding: 20px;
+    border: 5px solid teal;
+    color: teal;
+        
+}
+
+.aboutme {
+    border: 3px solid teal;
+}
+
+.portfolio {
+    border: 3px solid teal;
+}
